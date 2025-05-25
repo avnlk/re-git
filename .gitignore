@@ -1,0 +1,14 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable binaries
+re-git
+
+# Temporary files
+*.tmp
+*.log
+
+# Ignore your test folders (optional)
+re-git-test/
+
