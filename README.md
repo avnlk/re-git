@@ -1,3 +1,3 @@
 # Re-git
 
-Git Alternative
+Git core implementations
